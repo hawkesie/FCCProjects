@@ -2,6 +2,7 @@
 body{
   background-color:grey;
   font-family:calibri;
+  color:#3C3C3C;
 }
 
 #main{
@@ -13,6 +14,7 @@ body{
   margin-right: auto;
   text-align:center;
   background-color:white;
+  
 }
 
 h1{
