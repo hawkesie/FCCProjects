@@ -76,21 +76,19 @@ button{
 
 @media screen and (max-width: 520px) {
   .labels {
-    width: 100%;
+    width: 70%;
     text-align: left;
   }
-  .rightTab {
-    width: 80%;
+  .right-labels {
+    width: 70%;
     float: left;
   }
-  .input-field {
-    width: 100%;
-  }
-  select {
-    width: 100%;
+  
+  .inputs{
+    width:80%;
   }
   
   #comment{
   width:80%;
-}
+  }
 }
