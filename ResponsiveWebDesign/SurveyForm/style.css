@@ -1,14 +1,20 @@
 body{
-  background-color:orange;
+  background-color:#fdfdfd;
   text-align:center;
 }
 
+h1{
+  color:#74565b;
+}
 main{
   padding:10px 0px 30px 0px;
-  background-color:orange;
+  background-color:#fbcad1;
   margin-left: auto;
   margin-right: auto;
   display:block;
+  font-family:calibri;
+  color:#856368;
+  font-weight:120%;
 }
 
 #survey-form{
@@ -16,8 +22,8 @@ main{
   margin-right: auto;
   display:block;
   width:50%;
-  background-color:grey;
-  padding:20px 20px 20px 20px;
+  background-color: #cfdbe7;
+  padding:40px 20px 40px 20px;
 }
 
 .labels{
@@ -32,6 +38,7 @@ main{
   text-align:left;
   width:30%;
   vertical-align:top;
+  background-color:#fdfdfd;
 }
 
 .right-labels{
@@ -49,6 +56,13 @@ main{
 
 #comment{
   width:50%;
+}
+
+button{
+  height:50px;
+  width:100px;
+  font-weight:bold;
+  color:#a77c82;
 }
 
 @media screen and (max-width: 833px) {
